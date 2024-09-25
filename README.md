@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aka-dgizhere
+- 👋 Hi, I’m Aman Mishra
 - 👀 I’m interested in Technologies 
 - 🌱 I’m currently mastering Java and Python
 - 💞️ I’m looking to collaborate on Projects
